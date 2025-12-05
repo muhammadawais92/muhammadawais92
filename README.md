@@ -1,7 +1,7 @@
 # Hi! I'm Muhammad Awais 👋
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=muhammadawais92)  
-I am a student in the Master's Computer Science (CPS² Program) at **Université Jean Monnet Saint-Étienne & Mines Saint-Étienne**, learning **IoT, ESP32, smart energy systems, smart buildings, embedded systems, AI, digital twins, and cybersecurity**.  
+I am a student in the Master's Computer Science (CPS2 Program) at **Université Jean Monnet Saint-Étienne & Mines Saint-Étienne**, learning **IoT, ESP32, smart energy systems, smart buildings, embedded systems, AI, digital twins, and cybersecurity**.  
 I enjoy exploring and building hands-on prototypes using **MicroPython, Arduino, Gradle, and other tools** as part of my studies.
 
 ---
@@ -25,7 +25,7 @@ I enjoy exploring and building hands-on prototypes using **MicroPython, Arduino,
 
 ### 🧰 Tech Stack
 ```text
-Languages: Python | C | C++  
-Hardware: ESP32 (Adafruit Huzzah / Bluefruit) | Arduino  
+Languages: Python | C++ | Basic Java | Basic Kotllin | Micropython | R 
+Hardware: ESP32 (Adafruit Huzzah / Bluefruit) | 
 Frameworks: MicroPython | Gradle  
-Tools: MATLAB | Git | Linux | VS Code | Thonny
+Tools: MATLAB | Cursor | VS Code | Thonny 
