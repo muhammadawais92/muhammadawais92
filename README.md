@@ -15,7 +15,7 @@ I enjoy exploring and building hands-on prototypes using **MicroPython, Arduino,
 
 ---
 
-### 🚀 Current Projects & Interests
+### 🚀 Technology Interests
 - 🔋 **IoT & Smart Energy Systems** — ESP32 & MicroPython projects for energy efficiency  
 - 🏙️ **Smart Buildings & Smart Cities** — automation, sensor networks, and data-driven control  
 - 🧠 **AI & Digital Twin Applications** — modeling complex systems and predicting outcomes  
@@ -25,7 +25,7 @@ I enjoy exploring and building hands-on prototypes using **MicroPython, Arduino,
 
 ### 🧰 Tech Stack
 ```text
-Languages: Python | C++ | Basic Java | Basic Kotllin | Micropython | R 
+Languages: Python | C++ | Java | Kotllin | Micropython | R 
 Hardware: ESP32 (Adafruit Huzzah / Bluefruit) | 
 Frameworks: MicroPython | Gradle  
-Tools: MATLAB | Cursor | VS Code | Thonny 
+Tools: MATLAB | Simulink | VS Code | Thonny 
