@@ -2,14 +2,30 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=muhammadawais92)
 
-I’m currently a **Master’s student in Computer Science (CPS2 – AI & IoT track)** at **Université Jean Monnet Saint-Étienne & Mines Saint-Étienne**.  
-Before and alongside my studies, I’ve gained practical experience working with **electrical systems, embedded devices, and software-based solutions**, which helps me understand both the hardware and software sides of projects.
+<details>
+<summary>About Me (click to expand)</summary>
 
-At the moment, I mainly focus on **learning by building** — developing **IoT and embedded prototypes**, experimenting with **ESP32-based systems**, and applying **Python and basic machine learning techniques** in coursework and personal projects.
+I’m currently a **Master’s student in Computer Science (CPS2 – AI & IoT track)** at  
+**Université Jean Monnet Saint-Étienne & Mines Saint-Étienne**.  
 
-I like working on projects where I can combine my **engineering background** with new tools and concepts, improve system reliability, and clearly document what I learn.
+Before and alongside my studies, I’ve gained practical experience working with:  
+- ⚡ **Electrical systems**  
+- 🛠️ **Embedded devices**  
+- 💻 **Software-based solutions**  
 
----
+This experience helps me understand both the **hardware and software sides** of projects.
+
+At the moment, I mainly focus on **learning by building**:  
+- 🔹 Developing **IoT and embedded prototypes**  
+- 🔹 Experimenting with **ESP32-based systems**  
+- 🔹 Applying **Python and basic machine learning techniques** in coursework and personal projects
+
+I like working on projects where I can:  
+- Combine my **engineering background** with new tools and concepts  
+- Improve **system reliability**  
+- Clearly **document what I learn**
+
+</details>
 
 ### 🎓 Education
 - **Master’s in Computer Science (CPS2 – AI & IoT)**  
