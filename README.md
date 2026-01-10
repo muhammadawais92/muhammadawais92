@@ -32,7 +32,7 @@ I enjoy combining my **engineering background** with new tools and technologies,
 - 🔋 **IoT & Smart Energy Systems** — ESP32-based sensing and monitoring  
 - 🏙️ **Smart Buildings & Smart Cities** — automation, sensors, and data collection  
 - 🧠 **AI & Data Applications** — basic ML for analysis and decision support  
-- 🌐 **Embedded Connectivity** — BLE, MQTT, and device-to-cloud communication  
+- 🌐 **Embedded Connectivity** — Bluetooth Low Energy, MQTT, and device-to-cloud communication  
 
 ---
 
