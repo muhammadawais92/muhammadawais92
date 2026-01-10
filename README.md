@@ -2,9 +2,6 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=muhammadawais92)
 
-<details>
-<summary>About Me (click to expand)</summary>
-
 I’m currently a **Master’s student in Computer Science (CPS2 – AI & IoT track)** at  
 **Université Jean Monnet Saint-Étienne & Mines Saint-Étienne**.  
 
@@ -24,8 +21,6 @@ I like working on projects where I can:
 - Combine my **engineering background** with new tools and concepts  
 - Improve **system reliability**  
 - Clearly **document what I learn**
-
-</details>
 
 ### 🎓 Education
 - **Master’s in Computer Science (CPS2 – AI & IoT)**  
